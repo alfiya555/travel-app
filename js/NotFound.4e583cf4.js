@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["NotFound"],{9703:function(n,t,e){"use strict";e.r(t);var o=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[e("h1",[n._v("Not Found")]),e("p",[n._v(" Ops we couldn't find any page. Try going to "),e("router-link",{attrs:{to:{name:"home"}}},[n._v("home")])],1)])},u=[],r=e("2877"),a={},l=Object(r["a"])(a,o,u,!1,null,null,null);t["default"]=l.exports}}]);
+//# sourceMappingURL=NotFound.4e583cf4.js.map
